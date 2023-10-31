@@ -1,32 +1,36 @@
-# Tasca-M2-T02
-## Descripció
+
+# Exercise of control structures with Python.
+
+
+- Exercise 1
+The exercise consists of creating a program that classifies a numeric variable according to the scale Suspès/Aprovat/Notable/Excel-lent.
+
+Remember that Suspès < 5, Aprovat > 5 and < 7, Notable > 7 and < 9 and Excel-lent > 9.
+
+
+- Exercise 2
+
+Using the following tutorial create a program that asks you for two numbers. It should display a message telling you if the first is larger, the second is larger or they are the same.
 
 
 
 
-Exercicis d'estructures de control amb Python.
+- Exercise 3
+
+Create a program that asks for your name, and asks for a number. If the number is 0, it should display an error message. Otherwise, it should display the name repeated as many times as the number indicates. For example, "Joan Joan Joan".
 
 
 
-- Exercici 1
-L'exercici consisteix a crear un programa que et classifiqui una variable numèrica en funció de l’escala Suspès/Aprovat/Notable/Excel·lent.
-
-Recorda que Suspès < 5, Aprovat > 5 i < 7, Notable > 7 i < 9 i Excel·lent > 9.
-
-
-- Exercici 2
-Utilitzant el següent tutorial crea un programa que et pregunti dos números. T’ha de mostrar un missatge dient si el primer és més gran, el segon és més gran o són iguals.
-
-
-- Exercici 3
-Crea un programa que et pregunti el teu nom, i et demani un número. Si el número és 0, hauria de mostrar un missatge d’error. En cas contrari, hauria de mostrar el nom repetit tants cops com indiqui el número. Per exemple, “Joan Joan Joan”.
 
 
 
-- Exercici 4
-Crea un programa que donada una llista qualsevol, et digui si és simètrica o no. Si ho és, que et digui quants elements té.
+- Exercise 4
+
+Create a program that, given any list, will tell you if it is symmetric or not. If it is, it will tell you how many elements it has.
 
 
 
-- Exercici 5
-Crea un programa que donada una llista, et digui quants números coincideixen amb la seva posició. Per exemple [3,4,2,0,2,3,6] el 2 i el 6 coincideixen.
+
+
+
+- Exercise 5Create a program that, given a list, tells you how many numbers match its position. For example [3,4,2,0,2,2,3,6] the 2 and the 6 coincide.
